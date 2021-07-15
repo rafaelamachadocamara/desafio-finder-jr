@@ -13,8 +13,9 @@ Desde a infância apaixonada por tecnologia, o meu primeiro contato com o mundo 
 programação através do programa Generation, me apaixonando por esse universo . Pretendo me tornar uma desenvolvedora e servir de
 exemplo para outras mulheres e pessoas LGBTQIA+ que queiram embarcar na tecnologia.
 
-<hr> 
-
+<h3 align="left">Minhas redes sociais:</h3>
+<p align="left">
+  
 <a href="https://linkedin.com/in/rafaelamachado-camara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelamachado-camara" height="30" width="40" /></a>
 <a href="https://discord.gg/#1866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1866" height="30" width="40" /></a>
 </p>
