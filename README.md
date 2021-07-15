@@ -7,7 +7,7 @@
 * Banco de dados: MySQL
 * Testes de serviços RESTful (Web APIs): Postman
 
-### 😎 Sobre Mim:
+### ☺ Sobre Mim:
 
 Desde a infância apaixonada por tecnologia, o meu primeiro contato com o mundo tecnológico foi na área de design gráfico. Conheci a área da
 programação através do programa Generation, me apaixonando por esse universo . Pretendo me tornar uma desenvolvedora e servir de
